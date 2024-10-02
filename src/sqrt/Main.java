@@ -1,4 +1,4 @@
-package questions.sqrt;
+package sqrt;
 
 public class Main {
 

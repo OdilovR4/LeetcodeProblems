@@ -1,6 +1,8 @@
-package questions.linked_list_cycle;
+package linked_list_cycle;
 
-import java.util.List;
+import Listnode.ListNode;
+
+
 
 public class Main {
 

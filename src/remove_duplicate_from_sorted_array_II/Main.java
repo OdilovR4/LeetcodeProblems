@@ -1,4 +1,4 @@
-package questions.remove_duplicate_from_sorted_array_II;
+package remove_duplicate_from_sorted_array_II;
 
 public class Main {
     public static void main(String[] args) {

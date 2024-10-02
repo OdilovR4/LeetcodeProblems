@@ -1,10 +1,4 @@
-package questions.plus_one;
-
-import java.util.Arrays;
-
-import java.util.Arrays;
-
-import java.util.Arrays;
+package plus_one;
 
 import java.util.Arrays;
 

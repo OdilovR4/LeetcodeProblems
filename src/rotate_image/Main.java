@@ -1,4 +1,4 @@
-package questions.rotate_image;
+package rotate_image;
 
 import java.util.Arrays;
 

@@ -1,4 +1,4 @@
-package questions.integer_to_roman;
+package integer_to_roman;
 
 import java.util.HashMap;
 import java.util.Map;

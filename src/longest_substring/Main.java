@@ -1,4 +1,4 @@
-package questions.longest_substring;
+package longest_substring;
 
 import java.util.*;
 

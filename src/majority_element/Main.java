@@ -1,4 +1,4 @@
-package questions.majority_element;
+package majority_element;
 
 import java.util.Arrays;
 

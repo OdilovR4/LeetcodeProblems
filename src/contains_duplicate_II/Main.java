@@ -1,7 +1,5 @@
-package questions.contains_duplicate_II;
+package contains_duplicate_II;
 
-import javax.print.attribute.SetOfIntegerSyntax;
-import javax.swing.*;
 import java.util.*;
 
 public class Main {

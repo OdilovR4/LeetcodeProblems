@@ -1,4 +1,4 @@
-package questions.container_with_max_water;
+package container_with_max_water;
 
 public class Main {
 

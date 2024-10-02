@@ -1,4 +1,4 @@
-package questions.power_of_two;
+package power_of_two;
 
 public class Mian {
     public static void main(String[] args) {

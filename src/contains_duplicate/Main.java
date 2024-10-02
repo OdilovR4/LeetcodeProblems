@@ -1,6 +1,5 @@
-package questions.contains_duplicate;
+package contains_duplicate;
 
-import java.util.Arrays;
 import java.util.HashSet;
 import java.util.Set;
 

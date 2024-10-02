@@ -1,5 +1,7 @@
-package questions.swap_notes_in_pairs;
+package swap_notes_in_pairs;
 
+
+import Listnode.ListNode;
 
 public class Main {
     public static void main(String[] args) {

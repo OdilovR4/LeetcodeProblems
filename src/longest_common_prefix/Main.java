@@ -1,4 +1,4 @@
-package questions.longest_common_prefix;
+package longest_common_prefix;
 
 import java.util.Arrays;
 

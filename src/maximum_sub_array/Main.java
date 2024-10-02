@@ -1,4 +1,4 @@
-package questions.maximum_sub_array;
+package maximum_sub_array;
 
 public class Main {
 

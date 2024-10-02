@@ -1,4 +1,6 @@
-package questions.remove_linked_list;
+package remove_linked_list;
+
+import Listnode.ListNode;
 
 public class Main {
 
@@ -19,7 +21,7 @@ public class Main {
             prt = prt.next;
         }*/
 
-        ListNode head = new ListNode(4);
+        ListNode head = new ListNode(2);
         head.next = new ListNode(2);
         head.next.next = new ListNode(5);
         head.next.next.next = new ListNode(9);

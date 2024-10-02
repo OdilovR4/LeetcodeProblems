@@ -1,5 +1,7 @@
-package questions.reverse_linked_list;
+package reverse_linked_list;
 
+
+import Listnode.ListNode;
 
 import java.util.Stack;
 

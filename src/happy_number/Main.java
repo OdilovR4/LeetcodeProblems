@@ -1,4 +1,4 @@
-package questions.happy_number;
+package happy_number;
 
 import java.util.HashSet;
 import java.util.Set;
