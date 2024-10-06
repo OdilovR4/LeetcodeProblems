@@ -37,8 +37,7 @@ public class Main {
         if(prev.val == -1) {
             return null;
         }
-
-        return dummy.next;
+      return dummy.next;
     }
 
 
