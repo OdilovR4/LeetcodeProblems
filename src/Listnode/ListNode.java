@@ -1,5 +1,7 @@
 package Listnode;
 
+import java.util.List;
+
 public class ListNode {
     public int val;
     public ListNode next;
@@ -17,4 +19,5 @@ public class ListNode {
           this.val = val;
           this.next = next;
       }
+
 }
